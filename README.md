@@ -81,3 +81,15 @@ Apache ActiveMQ Artemis supports using a single port for all protocols, Apache A
 
 ...
 
+
+## forums
+
+https://activemq.apache.org/contact
+
+
+## links
+* [ActiveMQ Artemis 2.0 | Clebert Suconic, Red Hat | The Linux Foundation](https://www.youtube.com/watch?v=qF1Op1ZNBAk)
+* [ActiveMQ Artemis Community Call: June 2021 | TheApacheFoundation](https://www.youtube.com/watch?v=hizGW-aOUyk)
+* [Apache Active MQ | Parleys](https://www.youtube.com/watch?v=s-E_V5Xyg6k)
+* [JMS 2.0 on Kubernetes with Apache ActiveMQ | DevNation Tech Talk | Red Hat Developer](https://www.youtube.com/watch?v=mkqVxWZfGfI)
+* [AMAZON MQ FOR APACHE ACTIVEMQ | Visual Explanations](https://www.youtube.com/watch?v=jT5mHddIKWQ)
