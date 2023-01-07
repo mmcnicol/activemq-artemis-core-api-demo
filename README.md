@@ -7,7 +7,7 @@ https://github.com/apache/activemq-artemis
 
 https://access.redhat.com/articles/112673#EAP_7
 
-JBOSS EAP 7.3.X = ActiveMQ Artemis 2.9.0
+JBOSS EAP 7.3.X = ActiveMQ Artemis 2.9.0  
 JBOSS EAP 7.4.X = ActiveMQ Artemis 2.16.0
 
 
